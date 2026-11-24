@@ -1,0 +1,1 @@
+Build the make.fun "Post the Meme, Win the Feed" entry: an agent's payslip meme about make.fun for AI agent builders (stdlib-only PNG via make_meme.py), posted on X from @georgebuilding2 with @_myronera tagged and play code makefun-fresco-moose-pony, repo makefun-post-meme-win-feed with main.ts copying POST.json to output.
